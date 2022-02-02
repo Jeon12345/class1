@@ -1,0 +1,324 @@
+*{
+margin:0px;
+padding:0px;
+box-sizing:border-box;
+
+} 
+/* button style start */
+
+.button_style{
+
+padding:10px 20px;
+background-color: #fdb467;
+font-weight: 700;
+margin-top: 30px;
+border:none;
+
+}
+ 
+/* button style end */
+
+
+/* header style start */
+.header{
+
+height:600px;
+width: 1349px;
+background-image: url(./image/header.png);
+background-repeat: no-repeat;
+background-size:cover;
+background-position:center ;
+color:white;
+}
+.header_contient h1{
+
+font-size: 50px;
+font-family: sans-serif;
+font-weight:700;
+}
+.header_contient p{
+
+font-size: 15px;
+font-weight: 100;
+line-height: 25px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.header_contient{
+
+    padding:200px 90px;
+}
+
+
+/* header style end */
+
+/* registration style star */
+
+ .registration{
+
+       height:550px;
+      width: 1349px;
+ }
+
+.registration .left{
+
+       width:50%;
+       height: 550px;
+       float:left;
+       background-color: #272624 ;
+ color:white;
+}
+
+ .left h2 {
+        font-size: 40px;
+        font-family: sans-serif;
+        font-weight: 500;
+        padding-right: 70px;
+        padding-top: 235px;
+        padding-left: 192px;
+        position: absolute;
+    }
+    .left p {
+        text-align: center;
+        font-size: 17px;
+        font-family: sans-serif;
+        font-weight: 100;
+        padding: 281px 48px 57px;
+        line-height: 23px;
+    }
+.registration .right{
+   
+      width:50%;
+      height: 550px;
+      float:right;
+      background-color: #1e1d1b;
+    color:white;
+
+ }
+    .right h1 {
+        font-size: 37px;
+        text-transform: capitalize;
+        font-family: sans-serif;
+        font-weight: 400;
+        padding-right: 70px;
+        padding-top: 235px;
+        padding-left: 192px;
+        position: absolute;
+    }
+
+.right p {
+    text-align: center;
+    font-size: 17px;
+    font-family: sans-serif;
+    font-weight: 100;
+    padding: 302px 48px 57px;
+    line-height: 30px;
+}
+.right .btn {
+    margin: -35px 270px;
+    position: absolute;
+}
+
+/* registration style end */
+
+/* workshops style start */
+.workshops{
+
+    height:550px;
+    width: 1349px;
+}
+.workshops_con{
+
+
+  float:left;
+  width:50%;
+ background-color: #ddd;
+ height:664px;
+ padding:150px;
+}
+.workshops_img {
+
+float: right;
+width:50%;
+}
+.workshops_img img {
+    width: 674px;
+    height: 664px;
+}
+
+.workshops_con h1{
+
+ font-size: 46px;
+ font-family: sans-serif;
+ font-weight: 500;
+text-transform: capitalize;
+
+}
+.workshops_con p{
+
+ font-size: 20px;
+line-height: 30px;
+font-weight: 400;
+text-align: left;
+
+}
+/* workshops style end */
+
+/* membership style start */
+.membership{
+
+    height:550px;
+    width: 1349px;
+   
+
+}
+.membership_img{
+ float: left;
+
+}
+.membership_img img{
+
+
+width:965px;
+height:500px;
+
+}
+.m_contient {
+    float: right;
+    color: white;
+    background-color: #272624;
+    width: 384px;
+    height: 500px;
+    padding: 45px;
+    padding-top: 95px;
+}
+.m_contient h1{
+
+font-size: 45px;
+font-weight: 400px;
+font-family: sans-serif;
+
+}
+
+.m_contient p{
+
+
+    font-family: sans-serif;
+    font-size: 15px;
+    line-height: 25px;
+    font-weight: 100;
+    text-align: left;
+}
+
+/* membership style end */
+
+/* student style start */
+
+ .student{
+
+    height:550px;
+    width: 1349px;
+    background-image: url(./image/Image_4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+ }
+
+.student_con{
+
+    width: 450px;
+    height: 450px;
+    background-color: #ddd;
+    position: absolute;
+    margin-top: 171px;
+    margin-left: 251px;
+}
+.con_student{
+    padding: 120px 41px;
+   
+
+}
+.con_student h2{
+
+font-size: 30px;
+font-family: sans-serif;
+font-weight: 600;
+
+}
+.con_student h1{
+
+font-size: 27px;
+font-family: sans-serif;
+font-weight: 400;
+
+
+
+}
+.con_student p{
+
+    font-family: sans-serif;
+    font-size: 15px;
+    line-height: 30px;
+    font-weight: 100;
+    text-align: left;
+    
+}
+
+/* student style end */
+.black{
+ 
+    width: 1349px;
+    height: 71px;
+    background-color: #1e1d1b;
+
+}
+
+
+/* fotter style start */
+
+.fotter{
+
+    width: 1349px;
+    height:500px;
+   background-color: #1e1d1b;
+   color:white;
+   margin-top:2px;
+  
+}
+.fotter_con h1{
+
+
+    font-size: 37px;
+    text-transform: capitalize;
+    font-family: sans-serif;
+    font-weight: 400;
+    padding-right: 97px;
+    padding-top: 151px;
+    padding-left: 450px;
+   
+}
+
+.fotter_con p{
+
+    text-align: center;
+    font-size: 17px;
+    font-family: sans-serif;
+    font-weight: 100;
+    padding: 19px 299px 73px;
+    line-height: 33px;
+   position: absolute;
+}
+.fotter_con input{
+    padding: 10px;
+    color: white;
+    background-color: #1e1d1b;
+    border: 1px solid black;
+    border-color: white;
+    border-radius: 1px;
+    padding-left: 77px;
+    margin-left: 491px;
+    margin-top: 138px;
+}
+
+
+
+/* fotter style end */
